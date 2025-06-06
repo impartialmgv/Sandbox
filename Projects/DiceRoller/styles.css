@@ -24,6 +24,15 @@ body {
   padding: 1.5vh;
   margin: auto;
   min-width: 66px;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 7vh;
+  line-height: 10vh;
+  margin-top: 0;
+  text-align: center;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .title {

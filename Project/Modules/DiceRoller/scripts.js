@@ -28,7 +28,7 @@ function randomNum(amount, interval) {
     }, index * interval);
   }
   setTimeout(() => {
-    dice.style.color = "orange";
+    dice.style.color = "rgb(190, 0, 190)";
     diceNumber.innerHTML = Math.floor(Math.random() * (6 - 1) + 1);
   }, amount * interval);
 
